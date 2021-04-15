@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @asnuri98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @asnuri
+- 👀 I’m interested in data mining
+- 🌱 I’m currently learning data set
+- 💞️ I’m looking to collaborate on big data and data mining
+- 📫 How to reach me asnuri86@gmail.com
 
 <!---
 asnuri98/asnuri98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
